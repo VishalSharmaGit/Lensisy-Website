@@ -16,28 +16,46 @@ Understand UI/UX for real-world applications
 Prepare for building Google Apps Script Web Apps
 
 🛠️ Tech Stack
+
 HTML5
+
 CSS3
+
 Tailwind CSS
+
 JavaScript
+
 GSAP (Animations)
+
 Font Awesome
 
 ✨ Features
 📱 Fully Responsive Design
+
 🎬 Smooth Scroll Navigation
+
 🎨 Portfolio Filtering System
+
 🔍 Lightbox Image Preview
+
 📩 Interactive Contact Form
+
 💬 WhatsApp Integration
+
 ⚡ Scroll-based Animations
+
 🚀 Future Enhancements (Apps Script Integration)
 
 This project will be upgraded with:
+
 Google Apps Script backend
+
 Contact form → Google Sheets storage
+
 Admin dashboard
+
 Dynamic portfolio data from Sheets
+
 Email automation
 
 💡 Why This Project Matters
